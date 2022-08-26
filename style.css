@@ -1,0 +1,67 @@
+.li1 
+{
+    margin: 10px;
+    background-color: rgb(185, 104, 119);
+    padding: 5px;
+    color: rgb(229, 230, 230);
+}
+
+.li_span 
+{
+    background-color: rgb(145, 60, 75);
+    padding: 5px;
+}
+#div1 
+{
+    background-color: rgb(225, 161, 174);
+    width: 50%;
+}
+#List
+{
+    list-style-position: inside;
+    padding: 15px;
+}
+
+.li_span2
+{   
+    font-size: 1;
+    color: rgb(146, 31, 31);    
+    /* background-color: rgb(139, 164, 187);
+    padding: 10px; */
+}
+.List2
+{
+    list-style-position:inside;
+    padding: 15px;
+    list-style-image: url('unch.png');
+}
+.li2 
+{
+    /* margin: 10px; */
+    background-color: rgb(162, 191, 218);
+    padding: 10px;
+}
+ .li2_nechet
+{
+    /* margin: 10px; */
+    background-color: rgb(139, 164, 187);
+    padding: 10px;
+}
+h1
+{
+    margin: 10px;
+    padding: 10px;
+}
+#l1,#l2,#l3
+{
+    list-style-image: url('checked_16.png');
+    background-color: rgb(200, 211, 221);
+}
+dd
+{
+    text-indent: 75px;
+}
+.kyrsiv
+{
+color: rgb(201, 195, 195);
+}
